@@ -16,7 +16,7 @@
    venv\Scripts\activate    # Windows
    ```
 
-3. 필요한 패키지가 있다면 `requirements.txt`가 없을 경우 직접 설치합니다.
+3. 필요한 패키지를 설치합니다.
    ```bash
    pip install -r requirements.txt
    ```
